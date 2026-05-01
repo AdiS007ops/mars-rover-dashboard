@@ -17,7 +17,7 @@ Setup and Installation
    cd mars-rover-dashboard
 
 Roles:
-Product Owner: Arman
-Scrum Master: Adi
-Lead Dev 1: Shiv
-Lead Dev 2: Jonathan
+   * Product Owner: Arman
+   * Scrum Master: Adi
+   * Lead Dev 1: Shiv
+   * Lead Dev 2: Jonathan
