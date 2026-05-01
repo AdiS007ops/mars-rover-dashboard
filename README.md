@@ -15,3 +15,8 @@ Setup and Installation
 1. Clone the repository to your Raspberry Pi:
    bash git clone [https://github.com/your-username/mars-rover-dashboard.git](https://github.com/your-username/mars-rover-dashboard.git)
    cd mars-rover-dashboard
+Roles:
+Product Owner: Arman
+Scrum Master: Adi
+Lead Dev 1: Shiv
+Lead Dev 2: Jonathan
